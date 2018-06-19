@@ -1,6 +1,6 @@
 # My Custom Functionality #
 
-A basic starting point for a custom plugin to load CSS and JS files in WordPress.
+A basic plugin to load custom CSS and JS files in WordPress.
 
 ## Installation ##
 
@@ -9,8 +9,6 @@ A basic starting point for a custom plugin to load CSS and JS files in WordPress
 3. Activate the plugin.
 
 ## Usage ##
-
-CSS:
 
 1. Connect to your server using a FTP client and navigate to the plugin directory.
 2. Upload the files you want to use/load in the corresponding directories inside the `assets` directory.
